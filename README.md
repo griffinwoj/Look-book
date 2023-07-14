@@ -17,10 +17,12 @@ To set up the book search engine locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/griffinwoj/LookBook
+   git clone https://github.com/griffinwoj/Look-book
+
+   ```
 
 2. Install the dependencies:
-npm install
+   npm install
 
 3. Configure the environment variables:
 
@@ -28,11 +30,12 @@ Create a .env file in the root directory of the project.
 Specify the required environment variables in the .env file, such as database credentials and API keys.
 
 4. Start the application:
-npm start
+   npm start
 
 Access the application by visiting http://localhost:3000 in your web browser.
 
 ## Usage
+
 Once the application is running, follow these steps to use the book search engine:
 
 ```md
@@ -77,8 +80,10 @@ Click on the "Remove" button on a book to delete it from your saved books list.
 To log out of the site, click on the "Logout" button.
 You will be logged out and presented with a menu containing the options "Search for Books" and "Login/Signup."
 The menu also includes an input field to search for books and a submit button.
-``````
+```
+
 ## Features
+
 Search for books using a book search engine.
 Create a new user account or log in to an existing account.
 Save books to your account for easy access later.
@@ -87,7 +92,6 @@ Remove books from your saved books list.
 Logout from the site to protect your account.
 Contributing
 Contributions to the book search engine project are always welcome. If you have any suggestions, bug reports, or feature requests, please open an issue on the project's GitHub repository.
-
 
 License
 The LookBook search engine project is cloned from starter code from edX.
