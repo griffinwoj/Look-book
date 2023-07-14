@@ -45,12 +45,17 @@ Open your web browser and navigate to the application URL.
 You will be presented with a menu containing the options "Search for Books" and "Login/Signup."
 The menu also includes an input field to search for books and a submit button.
 Search for books:
-
+``````
+![Alt text](assets/01.gif)
+```md
 Click on the "Search for Books" menu option.
 An input field to search for books and a submit button will be displayed.
 Enter a search term in the input field and click the submit button.
 If you are not logged in, you will be presented with several search results.
 Each search result will include a book's title, author, description, image, and a link to that book on the Google Books site.
+```````
+![Alt text](assets/02.gif)
+```md
 Login/Signup:
 
 Click on the "Login/Signup" menu option.
